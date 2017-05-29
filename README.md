@@ -1,4 +1,4 @@
-# GCM---Exerc-cios-aula-14-
+# GCM-Exercícios-aula-14
 
 # questão 1
 
