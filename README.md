@@ -38,26 +38,26 @@ Git , GitHub, Subversion e CVS.
 A integração contínua é uma prática de desenvolvimento de software de DevOps em que os desenvolvedores, com frequência, juntam suas alterações de código em um repositório central. Depois disso, criações e testes são executados.
 
 
-questão 6 
+# questão 6 
 
 
 Melhora a produtividade dos desenvolvedores, distribui atualizações mais rapidamente e maior agilidade em encontrar bugs.
 
-questão 7
+# questão 7
 
 -Redmine -Bugzilla
 
-questão 8
+# questão 8
 
 Jenkins Bamboo Travis CI Buildbot Strider Go Integrity
 
-questão 9
+# questão 9
 
 Consiste no empacotamento de um sistema para promovê-lo de desenvolvimento para QA
 
 (Quality Assurance) e, posteriormente, para produção.
 
-questão 10
+# questão 10
 
 Releases devem ser identificados por um identificador (ID) de versão imutável. Releases devem
 
@@ -79,7 +79,7 @@ O gerenciamento de releases deve ser uma fonte de informação no status de todo
 
 idealmente através de um dashboard.
 
-questão 11
+# questão 11
 
 Uma versão é identificada por uma sequência de 3 números: MAJOR.MINOR.PATCH
 
@@ -95,16 +95,16 @@ O identificador PATCH deve ser alterado quando as alterações são realizadas p
 
 mantendo a compatibilidade com versões anteriores
 
-questão 12
+# questão 12
 
 Exemplo: 1.2.14
 
-questão 13
+# questão 13
 
 Um dos grandes benefícios é a capacidade de integração do código com o GitHub e é uma
 
 ferramenta gratuíta para a implatação de um aplicativo.
 
-questão 14
+# questão 14
 
 Com o heroku você possui uma plataforma open source para manejar seu aplicativo.
